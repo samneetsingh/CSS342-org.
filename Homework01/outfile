@@ -1,0 +1,24 @@
+Enter file name to read: 
+Enter command:
+  1-get Length, 2-get value at #, 3-get index for value#, 4- print array, 5 - exit
+Command: 
+-12 -1 0 1 2 3 4 5 11 18 19 23 44 57 111 161 2345 3000 3100 
+Command: 
+19
+Command: 
+3100
+Command: 
+-12
+Command: 
+17
+Command: 
+-1
+Command: 
+0
+Command: 
+-1
+Command: 
+18
+Command: 
+-1
+Command: 
